@@ -439,6 +439,11 @@
             "author": "竹饅",
             "resource": "T-Pickaxe.png",
             "climbresource": "T-Pickaxe_climb.png"
+        },
+        {
+            "name": "伝説の白玉仮面",
+            "author": "tugaru",
+            "resource": "shiratama_hat.png"
         }
     ]
 }
